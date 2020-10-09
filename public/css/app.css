@@ -1,0 +1,57 @@
+input[type="file"].excell {
+    display: none;
+}
+.custom-file-upload {
+    border: 1px solid #ccc;
+    background-color: #fff;
+    display: inline-block;
+    color: #777;
+    font-size: 13px;
+    font-weight: normal;
+    border-color: #dcdcdc;
+    box-shadow: none !important;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.banner__dashboard {
+    width: 100%;
+    height: 250px !important;
+}
+
+.carousel-control {
+    width: 10%;
+}
+
+.card--active {
+    border: 5px solid #3F51B5;
+}
+
+.card--active-green {
+    border: 5px solid rgb(38, 172, 38);
+}
+
+.btn__submit {
+    width: 150px;
+    padding: 10px 20px;
+}
+
+.has__center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.has__center--horizontal {
+    display: flex;
+    justify-content: center;
+}
+
+.icon__preloader {
+    width: 20px;
+    height: 20px;
+}
+
+.modal .modal-content .modal-body {
+    padding: 20px 50px;
+}
